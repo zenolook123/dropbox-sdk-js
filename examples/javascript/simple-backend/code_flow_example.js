@@ -11,8 +11,8 @@ const port = 3000;
 
 const config = {
   fetch,
-  clientId: 'APP_KEY_HERE',
-  clientSecret: 'APP_SECRET_HERE',
+  clientId: 'yi1sy5me2a49729',
+  clientSecret: 'v33nvhfsgjwrs9q',
 };
 
 const { Dropbox } = require('dropbox'); // eslint-disable-line import/no-unresolved
